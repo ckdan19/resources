@@ -55,3 +55,5 @@ This repository serves as the central hub for [Roberts Lab](http://faculty.washi
 ### Additional Resources:
 - **`archive/`**: Historical documents and archived materials
 - **`img/`**: Images and media files used throughout the documentation
+
+### This repository contains resources and protocols for the Roberts Lab at the University of Washington School of Aquatic and Fishery Sciences
